@@ -1,0 +1,8 @@
+{
+  "name": "bichodex-2077",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pedroguina/bichodex.git",
+  "author": "Pedro Guina <pedroguinasaltareli@gmail.com>",
+  "license": "MIT"
+}
